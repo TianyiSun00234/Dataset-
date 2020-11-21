@@ -9,3 +9,4 @@ OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
 # resources:
 * [Allen AI](https://guide.allennlp.org/)
 * [paperswithcode](https://paperswithcode.com/task/commonsense-rl)
+* [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding)
