@@ -16,3 +16,7 @@ OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
 Learning](https://arxiv.org/pdf/1904.05046.pdf))--> data scarcity and low-resources languages.
 * [Ambiguity & Synonymy](https://medium.com/sciforce/biggest-open-problems-in-natural-language-processing-7eb101ccfc9)
 * [Open Q in nlp](https://ruder.io/4-biggest-open-problems-in-nlp/)
+
+
+
+* [Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf)
