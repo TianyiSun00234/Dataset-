@@ -43,3 +43,6 @@ Capabilities and Challenges](https://cs.nyu.edu/grishman/tarragona.pdf)
 
 
 reasoning [video](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo)
+* mentioned people :
+  * [Tom Mitchell](http://www.cs.cmu.edu/~tom/)
+  * [Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)
