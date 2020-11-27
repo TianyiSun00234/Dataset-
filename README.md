@@ -18,5 +18,21 @@ Learning](https://arxiv.org/pdf/1904.05046.pdf))--> data scarcity and low-resour
 * [Open Q in nlp](https://ruder.io/4-biggest-open-problems-in-nlp/)
 
 
-
+Biase:
 * [Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf)
+* [Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual](https://arxiv.org/abs/1908.10763)
+
+Making text generation factually correct: 
+* [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754)
+
+Generate novel, creative text in a controllable way: 
+* novel: [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)
+* creative text: [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828)
+
+cross domain sa & data scarcity:
+* [Domain adaptation and sample bias correction](https://cs.nyu.edu/~mohri/domain.html)
+* [Transductive Inference](https://cs.nyu.edu/~mohri/transduction.html)
+
+information extraction: 
+* [Information Extraction:
+Capabilities and Challenges](https://cs.nyu.edu/grishman/tarragona.pdf)
