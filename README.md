@@ -22,6 +22,10 @@ Biase:
 * [Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf)
 * [Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual](https://arxiv.org/abs/1908.10763)
 
+[Fairness, Ethics, Accountability, and Transparency in NLP](http://web.cs.ucla.edu/~kwchang/publications_area/#FEAT)
+[Learning and Inference in Natural Language Processing](http://web.cs.ucla.edu/~kwchang/publications_area/#ml4nlp)
+
+
 Making text generation factually correct: 
 * [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754)
 
