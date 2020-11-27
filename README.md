@@ -40,3 +40,6 @@ cross domain sa & data scarcity:
 information extraction: 
 * [Information Extraction:
 Capabilities and Challenges](https://cs.nyu.edu/grishman/tarragona.pdf)
+
+
+reasoning [video](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo)
