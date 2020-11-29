@@ -52,5 +52,6 @@ ambiguity: NP-Hard Problem of NLP
  * [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.)
 
 Allen AI
-* [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/)
 * [Oren Etzioni's talks](https://allenai.org/team/orene)
+* [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/)
+* [GPT-3](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni)
