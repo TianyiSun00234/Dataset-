@@ -18,7 +18,7 @@ Learning](https://arxiv.org/pdf/1904.05046.pdf))--> data scarcity and low-resour
 * [Open Q in nlp](https://ruder.io/4-biggest-open-problems-in-nlp/)
 
 
-Biase:
+Bias:
 * [Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf)
 * [Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual](https://arxiv.org/abs/1908.10763)
 
@@ -50,3 +50,7 @@ reasoning [video](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo)
 ambiguity: NP-Hard Problem of NLP
  * [Why](https://www.ijrter.com/papers/volume-4/issue-2/why-is-nlp-an-np-hard-problem-a-short-explanation.pdf)
  * [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.)
+
+Allen AI
+* [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/)
+* [Oren Etzioni's talks](https://allenai.org/team/orene)
