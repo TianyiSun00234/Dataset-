@@ -49,4 +49,4 @@ reasoning [video](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo)
 
 ambiguity: NP-Hard Problem of NLP
  * [Why](https://www.ijrter.com/papers/volume-4/issue-2/why-is-nlp-an-np-hard-problem-a-short-explanation.pdf)
- 
+ * [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.)
