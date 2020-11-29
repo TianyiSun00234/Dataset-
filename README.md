@@ -46,3 +46,7 @@ reasoning [video](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo)
 * mentioned people :
   * [Tom Mitchell](http://www.cs.cmu.edu/~tom/)
   * [Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)
+
+ambiguity: NP-Hard Problem of NLP
+ * [Why](https://www.ijrter.com/papers/volume-4/issue-2/why-is-nlp-an-np-hard-problem-a-short-explanation.pdf)
+ 
