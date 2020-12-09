@@ -36,6 +36,9 @@ Generate novel, creative text in a controllable way:
 cross domain sa & data scarcity:
 * [Domain adaptation and sample bias correction](https://cs.nyu.edu/~mohri/domain.html)
 * [Transductive Inference](https://cs.nyu.edu/~mohri/transduction.html)
+* [cross-domain ensemble](https://www.researchgate.net/publication/330030207_A_General_Cross-Domain_Recommendation_Framework_via_Bayesian_Neural_Network)
+* [MTNet: A Neural Approach for Cross-Domain
+Recommendation with Unstructured Text](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_5.pdf)
 
 information extraction: 
 * [Information Extraction:
