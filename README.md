@@ -2,7 +2,6 @@
 
 ## Resource:
 * [Allen AI](https://guide.allennlp.org/)
-* [Oren Etzioni's talks](https://allenai.org/team/orene)
 * [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/)
 * [GPT-3](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni)
 * [paperswithcode, a webside with paper and code](https://paperswithcode.com/task/commonsense-rl)
@@ -10,6 +9,9 @@
 ## NLP consern 
 * [list of unsolved problems in NLP](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science#Natural_language_processing_algorithms)
 * [Open Questions in nlp](https://ruder.io/4-biggest-open-problems-in-nlp/)
+### videos and talks
+* reasoning [video](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo) mentioned people: [Tom Mitchell](http://www.cs.cmu.edu/~tom/) [Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)
+* [Oren Etzioni's talks](https://allenai.org/team/orene)
 
 ## NLU
 * [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding)
@@ -20,7 +22,7 @@
 * [Learning and Inference in NLP](http://web.cs.ucla.edu/~kwchang/publications_area/#ml4nlp)
 * [Why is NLP a NP-Hard Prolem](https://www.ijrter.com/papers/volume-4/issue-2/why-is-nlp-an-np-hard-problem-a-short-explanation.pdf)
 * [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.)
-* reasoning [video](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo) mentioned people: [Tom Mitchell](http://www.cs.cmu.edu/~tom/) [Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)
+
 
 ## NLG 
 * [NLG(vs.NLU)](https://en.wikipedia.org/wiki/Natural-language_generation)
