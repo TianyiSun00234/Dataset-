@@ -42,6 +42,7 @@
 Learning](https://arxiv.org/pdf/1904.05046.pdf))
 
 ## Cross-Domain sentiment analysis 
+* [Continuously Indexed Domain Adaptation](https://github.com/hehaodele/CIDA#continuously-indexed-domain-adaptation-cida)
 * [Domain adaptation and sample bias correction](https://cs.nyu.edu/~mohri/domain.html)
 * [Transductive Inference](https://cs.nyu.edu/~mohri/transduction.html)
 * [cross-domain ensemble](https://www.researchgate.net/publication/330030207_A_General_Cross-Domain_Recommendation_Framework_via_Bayesian_Neural_Network)
