@@ -1,9 +1,14 @@
 # Datasets & Websides
 
+
 ## Resource:
 * [Allen AI](https://guide.allennlp.org/)
 * [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/)
 * [paperswithcode, a webside with paper and code](https://paperswithcode.com/task/commonsense-rl)
+
+## DNN
+* [Natural-Parameter Networks: A Class of Probabilistic Neural Networks](http://wanghao.in/paper/NIPS16_NPN.pdf)
+
 
 ## NLP consern 
 * [list of unsolved problems in NLP](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science#Natural_language_processing_algorithms)
@@ -42,10 +47,14 @@ Learning](https://arxiv.org/pdf/1904.05046.pdf))
 * [cross-domain ensemble](https://www.researchgate.net/publication/330030207_A_General_Cross-Domain_Recommendation_Framework_via_Bayesian_Neural_Network)
 * [MTNet: A Neural Approach for Cross-Domain Recommendation with Unstructured Text](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_5.pdf)
 
+## Topics Extraction
+* [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+
 ## Information Extraction: 
 * [Information Extraction: Capabilities and Challenges](https://cs.nyu.edu/grishman/tarragona.pdf)
 
 ## Evaluation
 * [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
 * [Allen AI](https://allenai.org/data?tag=AllenNLP)
+
 
