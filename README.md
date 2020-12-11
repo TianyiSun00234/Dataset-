@@ -3,7 +3,6 @@
 ## Resource:
 * [Allen AI](https://guide.allennlp.org/)
 * [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/)
-* [GPT-3](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni)
 * [paperswithcode, a webside with paper and code](https://paperswithcode.com/task/commonsense-rl)
 
 ## NLP consern 
@@ -26,6 +25,7 @@
 
 ## NLG 
 * [NLG(vs.NLU)](https://en.wikipedia.org/wiki/Natural-language_generation)
+* [GPT-3](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni)
 ### facutally correct
 * [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754)
 ### Generate novel, creative text in a controllable way: 
