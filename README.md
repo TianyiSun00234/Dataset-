@@ -7,6 +7,10 @@
 * [GPT-3](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni)
 * [paperswithcode, a webside with paper and code](https://paperswithcode.com/task/commonsense-rl)
 
+## NLP consern 
+* [list of unsolved problems in NLP](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science#Natural_language_processing_algorithms)
+* [Open Questions in nlp](https://ruder.io/4-biggest-open-problems-in-nlp/)
+
 ## NLU
 * [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding)
 * [Ambiguity & Synonymy](https://medium.com/sciforce/biggest-open-problems-in-natural-language-processing-7eb101ccfc9)
@@ -26,21 +30,17 @@
 * novel: [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)
 * creative text: [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828)
 
-# NLP consern 
-* [list of unsolved problems in NLP](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science#Natural_language_processing_algorithms)
-* [Open Questions in nlp](https://ruder.io/4-biggest-open-problems-in-nlp/)
-
 ## Data Scarcity & low-resources languages. 
 * [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604)([Generalizing from a Few Examples: A Survey on Few-Shot
 Learning](https://arxiv.org/pdf/1904.05046.pdf))
 
-# Cross-Domain sentiment analysis 
+## Cross-Domain sentiment analysis 
 * [Domain adaptation and sample bias correction](https://cs.nyu.edu/~mohri/domain.html)
 * [Transductive Inference](https://cs.nyu.edu/~mohri/transduction.html)
 * [cross-domain ensemble](https://www.researchgate.net/publication/330030207_A_General_Cross-Domain_Recommendation_Framework_via_Bayesian_Neural_Network)
 * [MTNet: A Neural Approach for Cross-Domain Recommendation with Unstructured Text](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_5.pdf)
 
-# Information Extraction: 
+## Information Extraction: 
 * [Information Extraction: Capabilities and Challenges](https://cs.nyu.edu/grishman/tarragona.pdf)
 
 ## Evaluation
