@@ -26,7 +26,7 @@
 * [Learning and Inference in NLP](http://web.cs.ucla.edu/~kwchang/publications_area/#ml4nlp)
 * [Why is NLP a NP-Hard Prolem](https://www.ijrter.com/papers/volume-4/issue-2/why-is-nlp-an-np-hard-problem-a-short-explanation.pdf)
 * [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.)
-
+* [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers)
 
 ## NLG 
 * [NLG(vs.NLU)](https://en.wikipedia.org/wiki/Natural-language_generation)
