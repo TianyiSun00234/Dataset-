@@ -51,11 +51,12 @@ Learning](https://arxiv.org/pdf/1904.05046.pdf))
 ## Topics Extraction
 * [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
-## Information Extraction: 
+## Information Extraction 
 * [Information Extraction: Capabilities and Challenges](https://cs.nyu.edu/grishman/tarragona.pdf)
 
 ## Evaluation
 * [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
 * [Allen AI](https://allenai.org/data?tag=AllenNLP)
 
-
+## meta-learning for few-shot text classification
+* [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039)
