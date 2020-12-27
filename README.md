@@ -28,6 +28,7 @@
 * [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.)
 * [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers)
 
+
 ## NLG 
 * [NLG(vs.NLU)](https://en.wikipedia.org/wiki/Natural-language_generation)
 * [GPT-3](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni)
@@ -48,12 +49,12 @@ Learning](https://arxiv.org/pdf/1904.05046.pdf))
 * [cross-domain ensemble](https://www.researchgate.net/publication/330030207_A_General_Cross-Domain_Recommendation_Framework_via_Bayesian_Neural_Network)
 * [MTNet: A Neural Approach for Cross-Domain Recommendation with Unstructured Text](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_5.pdf)
 
-## Topics Extraction
+## Topic Extraction
 * [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
 ## Information Extraction 
 * [Information Extraction: Capabilities and Challenges](https://cs.nyu.edu/grishman/tarragona.pdf)
-
+* [Machine Learning for Knowledge Extraction and Reasoning](http://ink-ron.usc.edu/xiangren/ml4know19spring/project.html) 
 ## Evaluation
 * [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
 * [Allen AI](https://allenai.org/data?tag=AllenNLP)
