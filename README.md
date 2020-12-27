@@ -1,4 +1,4 @@
-# Datasets & Websides
+# This is a collection of resources mainly for NLU research 
 
 
 ## Resource:
@@ -8,7 +8,6 @@
 
 ## DNN
 * [Natural-Parameter Networks: A Class of Probabilistic Neural Networks](http://wanghao.in/paper/NIPS16_NPN.pdf)
-
 
 ## NLP consern 
 * [list of unsolved problems in NLP](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science#Natural_language_processing_algorithms)
@@ -28,7 +27,6 @@
 * [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.)
 * [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers)
 
-
 ## NLG 
 * [NLG(vs.NLU)](https://en.wikipedia.org/wiki/Natural-language_generation)
 * [GPT-3](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni)
@@ -42,6 +40,11 @@
 * [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604)([Generalizing from a Few Examples: A Survey on Few-Shot
 Learning](https://arxiv.org/pdf/1904.05046.pdf))
 
+## meta-learning for few-shot text classification
+* [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039)
+* [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few Shot_Learning_CVPR_2019_paper.pdf)
+* [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
+
 ## Cross-Domain sentiment analysis 
 * [Continuously Indexed Domain Adaptation](https://github.com/hehaodele/CIDA#continuously-indexed-domain-adaptation-cida)
 * [Domain adaptation and sample bias correction](https://cs.nyu.edu/~mohri/domain.html)
@@ -54,14 +57,12 @@ Learning](https://arxiv.org/pdf/1904.05046.pdf))
 
 ## Information Extraction 
 * [Information Extraction: Capabilities and Challenges](https://cs.nyu.edu/grishman/tarragona.pdf)
-* [Machine Learning for Knowledge Extraction and Reasoning](http://ink-ron.usc.edu/xiangren/ml4know19spring/project.html) 
-## Evaluation
+
+## Knowledge Representation 
+* [Machine Learning for Knowledge Extraction and Reasoning](http://ink-ron.usc.edu/xiangren/ml4know19spring/) 
+* [representation learning](https://shanzhenren.github.io/csci-699-replnlp-2019fall/index.html)
+* [Introduction to Information Extraction](http://ink-ron.usc.edu/xiangren/ie18fall/)
+ 
+## Evaluation (dataset)
 * [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
 * [Allen AI](https://allenai.org/data?tag=AllenNLP)
-
-## meta-learning for few-shot text classification
-* [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039)
-* [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
-* [Generalizing from a Few Examples: A Survey on Few-Shot
-Learning](https://arxiv.org/pdf/1904.05046.pdf)
-
