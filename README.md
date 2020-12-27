@@ -27,31 +27,6 @@
 * [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.)
 * [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers)
 
-## NLG 
-* [NLG(vs.NLU)](https://en.wikipedia.org/wiki/Natural-language_generation)
-* [GPT-3](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni)
-### facutally correct
-* [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754)
-### Generate novel, creative text in a controllable way: 
-* novel: [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)
-* creative text: [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828)
-
-## Data Scarcity & low-resources languages. 
-* [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604)([Generalizing from a Few Examples: A Survey on Few-Shot
-Learning](https://arxiv.org/pdf/1904.05046.pdf))
-
-## meta-learning for few-shot text classification
-* [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039)
-* [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few Shot_Learning_CVPR_2019_paper.pdf)
-* [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
-
-## Cross-Domain sentiment analysis 
-* [Continuously Indexed Domain Adaptation](https://github.com/hehaodele/CIDA#continuously-indexed-domain-adaptation-cida)
-* [Domain adaptation and sample bias correction](https://cs.nyu.edu/~mohri/domain.html)
-* [Transductive Inference](https://cs.nyu.edu/~mohri/transduction.html)
-* [cross-domain ensemble](https://www.researchgate.net/publication/330030207_A_General_Cross-Domain_Recommendation_Framework_via_Bayesian_Neural_Network)
-* [MTNet: A Neural Approach for Cross-Domain Recommendation with Unstructured Text](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_5.pdf)
-
 ## Topic Extraction
 * [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
@@ -63,6 +38,31 @@ Learning](https://arxiv.org/pdf/1904.05046.pdf))
 * [representation learning](https://shanzhenren.github.io/csci-699-replnlp-2019fall/index.html)
 * [Introduction to Information Extraction](http://ink-ron.usc.edu/xiangren/ie18fall/)
  
+## Cross-Domain sentiment analysis 
+* [Continuously Indexed Domain Adaptation](https://github.com/hehaodele/CIDA#continuously-indexed-domain-adaptation-cida)
+* [Domain adaptation and sample bias correction](https://cs.nyu.edu/~mohri/domain.html)
+* [Transductive Inference](https://cs.nyu.edu/~mohri/transduction.html)
+* [cross-domain ensemble](https://www.researchgate.net/publication/330030207_A_General_Cross-Domain_Recommendation_Framework_via_Bayesian_Neural_Network)
+* [MTNet: A Neural Approach for Cross-Domain Recommendation with Unstructured Text](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_5.pdf)
+
+## Data Scarcity & low-resources languages. 
+* [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604)([Generalizing from a Few Examples: A Survey on Few-Shot
+Learning](https://arxiv.org/pdf/1904.05046.pdf))
+
+## meta-learning for few-shot text classification
+* [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039)
+* [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few Shot_Learning_CVPR_2019_paper.pdf)
+* [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
+
+## NLG 
+* [NLG(vs.NLU)](https://en.wikipedia.org/wiki/Natural-language_generation)
+* [GPT-3](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni)
+### facutally correct
+* [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754)
+### Generate novel, creative text in a controllable way: 
+* novel: [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)
+* creative text: [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828)
+
 ## Evaluation (dataset)
 * [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
 * [Allen AI](https://allenai.org/data?tag=AllenNLP)
