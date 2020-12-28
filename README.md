@@ -26,6 +26,7 @@
 * [Why is NLP a NP-Hard Prolem](https://www.ijrter.com/papers/volume-4/issue-2/why-is-nlp-an-np-hard-problem-a-short-explanation.pdf)
 * [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.)
 * [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers)
+* [Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims](https://www.cis.upenn.edu/~ccb/publications/discovering-diverse-perspectives.pdf)
 
 ## Topic Extraction
 * [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
