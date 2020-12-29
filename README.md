@@ -28,24 +28,24 @@
 * [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers)
 * [Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims](https://www.cis.upenn.edu/~ccb/publications/discovering-diverse-perspectives.pdf)
 
-## Question Answering  
+### Question Answering  
 * [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial)
 
-## Sematic Parsing 
+### Sematic Parsing 
 * [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang)
 
-## Topic Extraction
+### Topic Extraction
 * [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
-## Information Extraction 
+### Information Extraction 
 * [Information Extraction: Capabilities and Challenges](https://cs.nyu.edu/grishman/tarragona.pdf)
 
-## Knowledge Representation 
+### Knowledge Representation 
 * [Machine Learning for Knowledge Extraction and Reasoning](http://ink-ron.usc.edu/xiangren/ml4know19spring/) 
 * [representation learning](https://shanzhenren.github.io/csci-699-replnlp-2019fall/index.html)
 * [Introduction to Information Extraction](http://ink-ron.usc.edu/xiangren/ie18fall/)
  
-## Cross-Domain sentiment analysis 
+### Cross-Domain sentiment analysis 
 * [Continuously Indexed Domain Adaptation](https://github.com/hehaodele/CIDA#continuously-indexed-domain-adaptation-cida)
 * [Domain adaptation and sample bias correction](https://cs.nyu.edu/~mohri/domain.html)
 * [Transductive Inference](https://cs.nyu.edu/~mohri/transduction.html)
@@ -56,7 +56,7 @@
 * [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604)([Generalizing from a Few Examples: A Survey on Few-Shot
 Learning](https://arxiv.org/pdf/1904.05046.pdf))
 
-## meta-learning for few-shot text classification
+### meta-learning for few-shot text classification
 * [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039)
 * [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few Shot_Learning_CVPR_2019_paper.pdf)
 * [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
