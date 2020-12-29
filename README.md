@@ -28,6 +28,12 @@
 * [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers)
 * [Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims](https://www.cis.upenn.edu/~ccb/publications/discovering-diverse-perspectives.pdf)
 
+## Question Answering  
+* [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial)
+
+## Sematic Parsing 
+* [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang)
+
 ## Topic Extraction
 * [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
