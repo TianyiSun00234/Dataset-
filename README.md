@@ -53,8 +53,8 @@
 * [MTNet: A Neural Approach for Cross-Domain Recommendation with Unstructured Text](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_5.pdf)
 
 ## Data Scarcity & low-resources languages. 
-* [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604)([Generalizing from a Few Examples: A Survey on Few-Shot
-Learning](https://arxiv.org/pdf/1904.05046.pdf))
+* [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604)
+* [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
 
 ### meta-learning for few-shot text classification
 * [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039)
