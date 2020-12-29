@@ -32,7 +32,8 @@
 * [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial)
 
 ### Sematic Parsing 
-* [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang)
+* vedio: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang)
+* [Github tutorial](https://github.com/percyliang/sempre) by Percy Liang Sep. 2020
 
 ### Topic Extraction
 * [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
