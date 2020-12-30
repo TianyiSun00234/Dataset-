@@ -12,9 +12,8 @@
 ## NLP consern 
 * [list of unsolved problems in NLP](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science#Natural_language_processing_algorithms)
 * [Open Questions in nlp](https://ruder.io/4-biggest-open-problems-in-nlp/)
-### Videos and Talks
-* [Yann LeCun and Christopher Manning discuss Deep Learning and Innate Priors](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo) mentioned people: [Tom Mitchell](http://www.cs.cmu.edu/~tom/) [Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)
-* [Oren Etzioni's talks](https://allenai.org/team/orene)
+* talk: [Yann LeCun and Christopher Manning discuss Deep Learning and Innate Priors](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo) mentioned people: [Tom Mitchell](http://www.cs.cmu.edu/~tom/) [Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)
+* talk: [Oren Etzioni](https://allenai.org/team/orene)
 
 ## NLU
 * [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding)
