@@ -65,9 +65,9 @@
 ## NLG 
 * [NLG(vs.NLU)](https://en.wikipedia.org/wiki/Natural-language_generation)
 * [GPT-3](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni)
-### factually correctness
+### Factually correctness
 * [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754)
-### Generate novel, creative text in a controllable way: 
+### Generate novel, creative text in a controllable way 
 * novel: [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)
 * creative text: [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828)
 
