@@ -31,7 +31,7 @@
 * [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial) by Dani Chen July 5th, 2020
 
 ### Sematic Parsing 
-* vedio: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang) [Github tutorial](https://github.com/percyliang/sempre) by Percy Liang Sep. 2020
+* talk: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang) by Percy Liang Sep. 2020 [Github tutorial](https://github.com/percyliang/sempre) 
 * [A BRIEF HISTORY OF NATURAL LOGIC](https://projects.illc.uva.nl/lgc/translation/papers/Kolkata.pdf)
 * [NaturalLI: Natural Logic Inference for Common Sense Reasoning](https://www.cs.utah.edu/nlp/slides/Mattia-NLogic-slides2019.pdf)
 
