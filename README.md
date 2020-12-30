@@ -60,7 +60,7 @@
 
 ### Meta-learning for Few-Shot text classification
 * [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039)
-* [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few Shot_Learning_CVPR_2019_paper.pdf)
+* [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
 * [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
 
 ## NLG 
