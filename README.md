@@ -34,6 +34,7 @@
 * talk: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang) by Percy Liang Sep. 2020 [Github tutorial](https://github.com/percyliang/sempre) 
 * [A BRIEF HISTORY OF NATURAL LOGIC](https://projects.illc.uva.nl/lgc/translation/papers/Kolkata.pdf)
 * [NaturalLI: Natural Logic Inference for Common Sense Reasoning](https://www.cs.utah.edu/nlp/slides/Mattia-NLogic-slides2019.pdf)
+* **Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims (Chen et al., 2019)**
 
 ### Topic Extraction
 * [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
