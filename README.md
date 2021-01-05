@@ -30,6 +30,9 @@ The sharing principle of these references here is for research. If any authors d
 * [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers)
 * [Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims](https://www.cis.upenn.edu/~ccb/publications/discovering-diverse-perspectives.pdf)
 
+### REASONING 
+* [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
+
 ### Question Answering  
 * [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial) by Danqi Chen Jul. 2020
 
@@ -75,9 +78,6 @@ The sharing principle of these references here is for research. If any authors d
 ### Generate novel, creative text in a controllable way 
 * novel: [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)
 * creative text: [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828)
-
-## REASONING 
-* [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
 
 ## Evaluation (dataset)
 * [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
