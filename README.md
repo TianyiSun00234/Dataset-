@@ -4,7 +4,7 @@ The sharing principle of these references here is for research. If any authors d
 
 
 
-## Resource:
+## Web:
 * [Allen AI](https://guide.allennlp.org/)
 * [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/)
 * [paperswithcode, a webside with paper and code](https://paperswithcode.com/task/commonsense-rl)
@@ -61,7 +61,8 @@ The sharing principle of these references here is for research. If any authors d
 * [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604)
 * [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
 
-### Meta-learning for Few-Shot text classification
+### Meta-learning (for Few-Shot text classification)
+* [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 * [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039)
 * [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
 * [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
@@ -74,6 +75,9 @@ The sharing principle of these references here is for research. If any authors d
 ### Generate novel, creative text in a controllable way 
 * novel: [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)
 * creative text: [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828)
+
+## REASONING 
+* [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
 
 ## Evaluation (dataset)
 * [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
