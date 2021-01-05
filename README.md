@@ -1,4 +1,4 @@
-# A collection of papers, tutorials, and talks for Natural Language Understanding (NLU) 
+# A collection of papers, tutorials, and talks mainly for Natural Language Understanding (NLU) 
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Tianyi Sun](https://tianyisun00234.github.io/) (Email: sun00234@umn.edu).
 
