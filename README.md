@@ -31,7 +31,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims](https://www.cis.upenn.edu/~ccb/publications/discovering-diverse-perspectives.pdf)
 
 ### Question Answering  
-* [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial) by Dani Chen July 5th, 2020
+* [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial) by Danqi Chen Jul. 2020
 
 ### Sematic Parsing 
 * talk: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang) by Percy Liang Sep. 2020 [Github tutorial](https://github.com/percyliang/sempre) 
