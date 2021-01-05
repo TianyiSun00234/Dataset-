@@ -1,6 +1,6 @@
 # This is a collection of resources mainly for NLU research 
 
-The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Tianyi Sun (Email: sun00234 @ umn.edu).
+The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Tianyi Sun (Email: sun00234@umn.edu).
 
 
 ## Resource:
