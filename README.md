@@ -10,7 +10,7 @@ The sharing principle of these references here is for research. If any authors d
 ## NLP & Its Applications
 * Wiki: [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding)
 * Talk: [Discuss Deep Learning and Innate Priors](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo) by Yann LeCun, Christopher Manning, 2018.  mentioned people: [Tom Mitchell](http://www.cs.cmu.edu/~tom/) [Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)
-* Talk(Updating): [New products/Perspectives of AI/NLP ](https://allenai.org/team/orene) by Oren Etzioni. 
+* Talk: [New products/Perspectives of AI/NLP ](https://allenai.org/team/orene) by Oren Etzioni, (Updating). 
 * Blog: [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/) by Oren Etzioni, 2020.
 * Talk: [Is GPT-3 Intelligent?](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni) by Oren Etzioni, 2020.
 
