@@ -4,7 +4,7 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ## Useful Webs
-* Web: [paperswithcode](https://paperswithcode.com/)
+* Web: [paperswithcode](https://paperswithcode.com/) by Facebook AI Research.
 * Web: [AllenNLP](https://guide.allennlp.org/) by Allen Institute for AI.
 
 ## NLP & Its Applications
@@ -33,7 +33,7 @@ The sharing principle of these references here is for research. If any authors d
 * [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial) by Danqi Chen Jul 2020.
 
 ### Sematic Parsing 
-* talk: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang) by Percy Liang, Sep 2020. [Github tutorial](https://github.com/percyliang/sempre). 
+* Talk: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang) by Percy Liang, Sep 2020. [Github tutorial](https://github.com/percyliang/sempre). 
 
 ### Logic Inference/ Reasoning
 * [A BRIEF HISTORY (1973-2007) OF NATURAL LOGIC](https://projects.illc.uva.nl/lgc/translation/papers/Kolkata.pdf) by Johan van Benthem.
@@ -42,15 +42,13 @@ The sharing principle of these references here is for research. If any authors d
 * [Analysing Mathematical Reasoning Abilities of Neural Models](https://arxiv.org/pdf/1904.01557v1.pdf) by DeepMind, Google Inc., Facebook AI Research, 2019.
 * [Commonsense Reasoning for Reinforcement Learning](https://paperswithcode.com/task/commonsense-rl) by Murray Campbell, et al., 2020.
 
-
 ### Transductive Inference 
 * [Transductive Inference](https://cs.nyu.edu/~mohri/transduction.html) by Mehryar Mohri, et al., 2007-2009. (3 papers) 
 
-
 ### Bayesian deep learning
 * [Natural-Parameter Networks: A Class of Probabilistic Neural Networks](http://wanghao.in/paper/NIPS16_NPN.pdf) by Hao Wang, Xingjian Shi, Dit-Yan Yeung, 2016.
-* Solution of Bayesian inverse problems: [Iterative ensemble Kalman methods: a unified perspective with some new variants](https://arxiv.org/pdf/2010.13299.pdf) by Daniel Sanz-Alonso, et al., 2020.
 * [An Updating Survey for Bayesian Deep Learning (BDL)](https://github.com/js05212/BayesianDeepLearning-Survey) by Hao Wang, 2020.
+* A solution of Bayesian inverse problems: [Iterative ensemble Kalman methods: a unified perspective with some new variants](https://arxiv.org/pdf/2010.13299.pdf) by Daniel Sanz-Alonso, et al., 2020.
 
 ### Topic Extraction
 * [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) by David M. Blei, Andrew Y. Ng, Michael I. Jordan, 2003.
@@ -78,13 +76,11 @@ The sharing principle of these references here is for research. If any authors d
 * [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf) by Quanming Yao, James Kwok, Lionel M. Ni, et al., 2020.
 * **[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)** by OpenAI, 2020.
 
-## NLG 
-### Factually correctness
-### Generate novel, creative text in a controllable way 
+## NLG (P1:Generate novel, creative text in a controllable way; P2:Factually correctness)
 * [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437), by Robin Jia, He He, Percy Liang, et al., 2018.
 * [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828) by He He, Nanyun Peng, Percy Liang, 2019.
 * [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754) by He He, Mona Diab, et al., 2020.
 
 ## Evaluation datasets
 * [Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims](https://www.aclweb.org/anthology/N19-1053/) by Wenpeng Yin, Chris Callison-Burch, Dan Roth, et al., 2019.
-* [AllenNLP Datasets](https://allenai.org/data?tag=AllenNLP)
+* [AllenNLP Datasets](https://allenai.org/data?tag=AllenNLP) by Allen Institute for AI.
