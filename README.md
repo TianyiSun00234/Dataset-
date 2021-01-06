@@ -60,7 +60,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Knowledge Representation 
 * [USC CSCI 699: Machine Learning for Knowledge Extraction & Reasoning](http://ink-ron.usc.edu/xiangren/ml4know19spring/) by Xiang Ren, Spring 2019.
-* [USC CSCI-699: Advanced Topics in Representation Learning for NLP](https://shanzhenren.github.io/csci-699-replnlp-2019fall/index.html) by Xiang Ren, Fall 2019.
+* [USC CSCI 699: Advanced Topics in Representation Learning for NLP](https://shanzhenren.github.io/csci-699-replnlp-2019fall/index.html) by Xiang Ren, Fall 2019.
 
 ### Domain Adaptation
 * [Continuously Indexed Domain Adaptation (CIDA)](https://github.com/hehaodele/CIDA#continuously-indexed-domain-adaptation-cida) by Hao Wang, 2020.
