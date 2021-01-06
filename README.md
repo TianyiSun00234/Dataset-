@@ -77,9 +77,11 @@ The sharing principle of these references here is for research. If any authors d
 * [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf) by Quanming Yao, James Kwok, Lionel M. Ni, et al., 2020.
 * **[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)** by OpenAI, 2020.
 
-## NLG (P1:Generate novel, creative text in a controllable way; P2:Factually correctness)
+## NLG 
+### Generate novel, creative text in a controllable way
 * [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437), by Robin Jia, He He, Percy Liang, et al., 2018.
 * [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828) by He He, Nanyun Peng, Percy Liang, 2019.
+### Factually correctness
 * [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754) by He He, Mona Diab, et al., 2020.
 
 ## Evaluation datasets
