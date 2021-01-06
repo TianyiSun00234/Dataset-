@@ -3,82 +3,88 @@
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Tianyi Sun](https://tianyisun00234.github.io/) (Email: sun00234@umn.edu).
 
 
+## Useful Webs
+* Web: [paperswithcode](https://paperswithcode.com/)
+* Web: [AllenNLP](https://guide.allennlp.org/) by Allen Institute for AI.
 
-## Web:
-* [Allen AI](https://guide.allennlp.org/)
-* [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/)
-* [paperswithcode, a webside with paper and code](https://paperswithcode.com/task/commonsense-rl)
+## NLP & Its Applications
+* Wiki: [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding)
+* Talk: [Discuss Deep Learning and Innate Priors](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo) by Yann LeCun, Christopher Manning, 2018.  mentioned people: [Tom Mitchell](http://www.cs.cmu.edu/~tom/) [Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)
+* Talk(Updating): [New products/Perspectives of AI/NLP ](https://allenai.org/team/orene) by Oren Etzioni. 
+* Blog: [AI Can Help Scientists Find a Covid-19 Vaccine](https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/) by Oren Etzioni, 2020.
+* Talk: [Is GPT-3 Intelligent?](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni) by Oren Etzioni, 2020.
 
-## DNN
-* [Natural-Parameter Networks: A Class of Probabilistic Neural Networks](http://wanghao.in/paper/NIPS16_NPN.pdf)
+## Open Problems of NLP
+* Wiki: [4 unsolved problems in NLP](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science#Natural_language_processing_algorithms)
+* Blog: [The 4 Biggest Open Problems in NLP](https://ruder.io/4-biggest-open-problems-in-nlp/) by Sebastian Ruder, 2019.
+* Blog: [Biggest Open Problems in Natural Language Processing: **NLU: Ambiguity & Synonymy**](https://medium.com/sciforce/biggest-open-problems-in-natural-language-processing-7eb101ccfc9) by Sciforce, 2020.
 
-## NLP consern 
-* [list of unsolved problems in NLP](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science#Natural_language_processing_algorithms)
-* [Open Questions in nlp](https://ruder.io/4-biggest-open-problems-in-nlp/)
-* talk: [Yann LeCun and Christopher Manning discuss Deep Learning and Innate Priors](https://www.youtube.com/watch?v=fKk9KhGRBdI&feature=emb_logo) mentioned people: [Tom Mitchell](http://www.cs.cmu.edu/~tom/) [Jaime Carbonell](https://www.cs.cmu.edu/~jgc/)
-* talk: [Oren Etzioni](https://allenai.org/team/orene)
+## Societal issues (Debiase & Trustworthy...)
+* [Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf) by Antonio Torralba, Stefanie Jegelka, et al., 2020.
+* [Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual](https://arxiv.org/abs/1908.10763) by He He, Sheng Zha, et al., 2019.
+* [Fairness, Ethics, Accountability, and Transparency (Societal Bias) in NLP](http://web.cs.ucla.edu/~kwchang/publications_area/#FEAT) by Kai-Wei Chang's research group.
+* [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers) by Kamalika Chaudhuri's research group.
 
-## NLU
-* [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding)
-* [Ambiguity & Synonymy](https://medium.com/sciforce/biggest-open-problems-in-natural-language-processing-7eb101ccfc9)
-* [Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf)
-* [Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual](https://arxiv.org/abs/1908.10763)
-* [Fairness, Ethics, Accountability, and Transparency in NLP](http://web.cs.ucla.edu/~kwchang/publications_area/#FEAT)
-* [Learning and Inference in NLP](http://web.cs.ucla.edu/~kwchang/publications_area/#ml4nlp)
-* [Why is NLP a NP-Hard Prolem](https://www.ijrter.com/papers/volume-4/issue-2/why-is-nlp-an-np-hard-problem-a-short-explanation.pdf)
-* [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.)
-* [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers)
-* [Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims](https://www.cis.upenn.edu/~ccb/publications/discovering-diverse-perspectives.pdf)
-
-### REASONING 
-* [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
+## NP-Hard of NLP
+* [Why is NLP a NP-Hard Prolem? A short Explanation](https://www.ijrter.com/papers/volume-4/issue-2/why-is-nlp-an-np-hard-problem-a-short-explanation.pdf) by Jaspreet Singh, 2018.
+* [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.) by Sanjeev Arora's research.
 
 ### Question Answering  
-* [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial) by Danqi Chen Jul. 2020
+* [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial) by Danqi Chen Jul 2020.
 
 ### Sematic Parsing 
-* talk: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang) by Percy Liang Sep. 2020 [Github tutorial](https://github.com/percyliang/sempre) 
-* [A BRIEF HISTORY OF NATURAL LOGIC](https://projects.illc.uva.nl/lgc/translation/papers/Kolkata.pdf)
-* [NaturalLI: Natural Logic Inference for Common Sense Reasoning](https://www.cs.utah.edu/nlp/slides/Mattia-NLogic-slides2019.pdf)
-* **Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims (Chen et al., 2019)**
+* talk: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang) by Percy Liang, Sep 2020. [Github tutorial](https://github.com/percyliang/sempre). 
+
+### Logic Inference/ Reasoning
+* [A BRIEF HISTORY (1973-2007) OF NATURAL LOGIC](https://projects.illc.uva.nl/lgc/translation/papers/Kolkata.pdf) by Johan van Benthem.
+* [Learning and Inference in NLP](http://web.cs.ucla.edu/~kwchang/publications_area/#ml4nlp) by Kai-Wei Chang's research group.
+* Slides: [NaturalLI: Natural Logic Inference for Common Sense Reasoning](https://www.cs.utah.edu/nlp/slides/Mattia-NLogic-slides2019.pdf) by Angeli & Manning, 2014.
+* [Analysing Mathematical Reasoning Abilities of Neural Models](https://arxiv.org/pdf/1904.01557v1.pdf) by DeepMind, Google Inc., Facebook AI Research, 2019.
+* [Commonsense Reasoning for Reinforcement Learning](https://paperswithcode.com/task/commonsense-rl) by Murray Campbell, et al., 2020.
+
+
+### Transductive Inference 
+* [Transductive Inference](https://cs.nyu.edu/~mohri/transduction.html) by Mehryar Mohri, et al., 2007-2009. (3 papers) 
+
+
+### Bayesian deep learning
+* [Natural-Parameter Networks: A Class of Probabilistic Neural Networks](http://wanghao.in/paper/NIPS16_NPN.pdf) by Hao Wang, Xingjian Shi, Dit-Yan Yeung, 2016.
+* Solution of Bayesian inverse problems: [Iterative ensemble Kalman methods: a unified perspective with some new variants](https://arxiv.org/pdf/2010.13299.pdf) by Daniel Sanz-Alonso, et al., 2020.
+* [An Updating Survey for Bayesian Deep Learning (BDL)](https://github.com/js05212/BayesianDeepLearning-Survey) by Hao Wang, 2020.
 
 ### Topic Extraction
-* [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+* [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) by David M. Blei, Andrew Y. Ng, Michael I. Jordan, 2003.
 
 ### Information Extraction 
-* [Information Extraction: Capabilities and Challenges](https://cs.nyu.edu/grishman/tarragona.pdf)
+* [Information Extraction: Capabilities and Challenges](https://cs.nyu.edu/grishman/tarragona.pdf) by Ralph Grishman, 2012.
+* [USC CSCI 699: Introduction to Information Extraction](http://ink-ron.usc.edu/xiangren/ie18fall/) by Xiang Ren, Fall 2018.
 
 ### Knowledge Representation 
-* [Machine Learning for Knowledge Extraction and Reasoning](http://ink-ron.usc.edu/xiangren/ml4know19spring/) 
-* [representation learning](https://shanzhenren.github.io/csci-699-replnlp-2019fall/index.html)
-* [Introduction to Information Extraction](http://ink-ron.usc.edu/xiangren/ie18fall/)
- 
-### Cross-Domain sentiment analysis 
-* [Continuously Indexed Domain Adaptation](https://github.com/hehaodele/CIDA#continuously-indexed-domain-adaptation-cida)
-* [Domain adaptation and sample bias correction](https://cs.nyu.edu/~mohri/domain.html)
-* [Transductive Inference](https://cs.nyu.edu/~mohri/transduction.html)
-* [cross-domain ensemble](https://www.researchgate.net/publication/330030207_A_General_Cross-Domain_Recommendation_Framework_via_Bayesian_Neural_Network)
-* [MTNet: A Neural Approach for Cross-Domain Recommendation with Unstructured Text](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_5.pdf)
+* [USC CSCI 699: Machine Learning for Knowledge Extraction & Reasoning](http://ink-ron.usc.edu/xiangren/ml4know19spring/) by Xiang Ren, Spring 2019.
+* [USC CSCI-699: Advanced Topics in Representation Learning for NLP](https://shanzhenren.github.io/csci-699-replnlp-2019fall/index.html) by Xiang Ren, Fall 2019.
 
-## Data Scarcity & low-resources languages. 
-* [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604)
-* [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
+### Domain Adaptation
+* [Continuously Indexed Domain Adaptation (CIDA)](https://github.com/hehaodele/CIDA#continuously-indexed-domain-adaptation-cida) by Hao Wang, 2020.
+* [Domain adaptation and sample bias correction](https://cs.nyu.edu/~mohri/domain.html) by Mehryar Mohri, et al., 2007-2016. (n papers) 
 
-### Meta-learning (for Few-Shot text classification)
-* [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
-* [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039)
-* [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)
-* [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
+### Cross-Domain 
+* [A General Cross-Domain Recommendation Framework via Bayesian Neural Network](https://www.computer.org/csdl/proceedings-article/icdm/2018/08594934/17D45WHONno) by Qing He, et al., 2018.
+* [MTNet: A Neural Approach for Cross-Domain Recommendation with Unstructured Text](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_5.pdf) by Yu Zhang, and Qiang Yang, et al., 2018.
+
+### Few-Shot Learning (Meta-learning, or attempt to solve Data Scarcity & low-resources languages)
+* [Meta-Transfer Learning for Few-Shot Learning](https://arxiv.org/abs/1812.02391) by Tat-Seng Chua, Bernt Schiele, et al., 2018.
+* [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604) by Wenpeng Yin, 2020.
+* [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039) by Shiyu Chang, Regina Barzilay, et al., 2020.
+* [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf) by Quanming Yao, James Kwok, Lionel M. Ni, et al., 2020.
+* **[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)** by OpenAI, 2020.
 
 ## NLG 
-* [NLG(vs.NLU)](https://en.wikipedia.org/wiki/Natural-language_generation)
-* [GPT-3](https://hai.stanford.edu/blog/gpt-3-intelligent-directors-conversation-oren-etzioni)
 ### Factually correctness
-* [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754)
 ### Generate novel, creative text in a controllable way 
-* novel: [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)
-* creative text: [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828)
+* [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437), by Robin Jia, He He, Percy Liang, et al., 2018.
+* [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828) by He He, Nanyun Peng, Percy Liang, 2019.
+* [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754) by He He, Mona Diab, et al., 2020.
 
-## Evaluation (dataset)
-* [ANALYSING MATHEMATICAL REASONING ABILITIES OF NEURAL MODELS](https://arxiv.org/pdf/1904.01557v1.pdf)
-* [Allen AI](https://allenai.org/data?tag=AllenNLP)
+## Evaluation datasets
+* [Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims](https://www.aclweb.org/anthology/N19-1053/) by Wenpeng Yin, Chris Callison-Burch, Dan Roth, et al., 2019.
+* [AllenNLP Datasets](https://allenai.org/data?tag=AllenNLP)
