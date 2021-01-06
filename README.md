@@ -31,7 +31,7 @@ The sharing principle of these references here is for research. If any authors d
 * [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers) by Kamalika Chaudhuri's research group.
 
 ### Question Answering  
-* [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial) by Danqi Chen Jul 2020.
+* [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial) by Danqi Chen, Jul 2020.
 
 ### Sematic Parsing 
 * Talk: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang) by Percy Liang, Sep 2020. [Github tutorial](https://github.com/percyliang/sempre). 
