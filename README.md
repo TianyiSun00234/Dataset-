@@ -76,7 +76,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039) by Shiyu Chang, Regina Barzilay, et al., 2020.
 * [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf) by Quanming Yao, James Kwok, Lionel M. Ni, et al., 2020.
 * **[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)** by OpenAI, 2020.
-
+* [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641) by Maruan Al-Shedivat,Pieter Abbeel, et al., 2018.
 ## NLG 
 ### Generate novel, creative text in a controllable way
 * [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437), by Robin Jia, He He, Percy Liang, et al., 2018.
