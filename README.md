@@ -19,15 +19,16 @@ The sharing principle of these references here is for research. If any authors d
 * Blog: [The 4 Biggest Open Problems in NLP](https://ruder.io/4-biggest-open-problems-in-nlp/) by Sebastian Ruder, 2019.
 * Blog: [Biggest Open Problems in Natural Language Processing: **NLU: Ambiguity & Synonymy**](https://medium.com/sciforce/biggest-open-problems-in-natural-language-processing-7eb101ccfc9) by Sciforce, 2020.
 
-## Societal issues (Debiase & Trustworthy...)
+## NP-Hard of NLP
+* [Why is NLP a NP-Hard Prolem? A short Explanation](https://www.ijrter.com/papers/volume-4/issue-2/why-is-nlp-an-np-hard-problem-a-short-explanation.pdf) by Jaspreet Singh, 2018.
+* [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.) by Sanjeev Arora's research.
+
+## NLU
+### Societal issues (Debiase & Trustworthy...)
 * [Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf) by Antonio Torralba, Stefanie Jegelka, et al., 2020.
 * [Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual](https://arxiv.org/abs/1908.10763) by He He, Sheng Zha, et al., 2019.
 * [Fairness, Ethics, Accountability, and Transparency (Societal Bias) in NLP](http://web.cs.ucla.edu/~kwchang/publications_area/#FEAT) by Kai-Wei Chang's research group.
 * [trustworthy ML](http://cseweb.ucsd.edu/~kamalika/#papers) by Kamalika Chaudhuri's research group.
-
-## NP-Hard of NLP
-* [Why is NLP a NP-Hard Prolem? A short Explanation](https://www.ijrter.com/papers/volume-4/issue-2/why-is-nlp-an-np-hard-problem-a-short-explanation.pdf) by Jaspreet Singh, 2018.
-* [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.) by Sanjeev Arora's research.
 
 ### Question Answering  
 * [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial) by Danqi Chen Jul 2020.
