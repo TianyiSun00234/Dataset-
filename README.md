@@ -35,6 +35,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Sematic Parsing 
 * Talk: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang) by Percy Liang, Sep 2020. [Github tutorial](https://github.com/percyliang/sempre). 
+* Workshop at EMNLP 2020: [IntEx-SemPar: Interactive and Executable Semantic Parsing](https://intex-sempar.github.io/) 
 
 ### Logic Inference/ Reasoning
 * [A BRIEF HISTORY (1973-2007) OF NATURAL LOGIC](https://projects.illc.uva.nl/lgc/translation/papers/Kolkata.pdf) by Johan van Benthem.
