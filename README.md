@@ -34,6 +34,7 @@ The sharing principle of these references here is for research. If any authors d
 * [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial) by Danqi Chen, Jul 2020.
 
 ### Sematic Parsing 
+* [Lecture 11 – Semantic Parsing | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=C5bdflsg7rs)
 * Talk: [Semantic Parsing for Natural Language Interfaces](https://hai.stanford.edu/events/hai-weekly-seminar-percy-liang) by Percy Liang, Sep 2020. [Github tutorial](https://github.com/percyliang/sempre). 
 * **Workshop at EMNLP 2020: [IntEx-SemPar: Interactive and Executable Semantic Parsing](https://intex-sempar.github.io/)**
 
