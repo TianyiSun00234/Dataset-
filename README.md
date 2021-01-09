@@ -6,6 +6,7 @@ The sharing principle of these references here is for research. If any authors d
 ## Useful Webs
 * Web: [paperswithcode](https://paperswithcode.com/) by Facebook AI Research.
 * Web: [AllenNLP](https://guide.allennlp.org/) by Allen Institute for AI.
+* Web: [Stanford Online](https://online.stanford.edu/)
 
 ## NLP & Its Applications
 * Wiki: [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding)
