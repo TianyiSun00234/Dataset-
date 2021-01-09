@@ -51,6 +51,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Natural-Parameter Networks: A Class of Probabilistic Neural Networks](http://wanghao.in/paper/NIPS16_NPN.pdf) by Hao Wang, Xingjian Shi, Dit-Yan Yeung, 2016.
 * [An Updating Survey for Bayesian Deep Learning (BDL)](https://github.com/js05212/BayesianDeepLearning-Survey) by Hao Wang, 2020.
 * A solution of Bayesian inverse problems: [Iterative ensemble Kalman methods: a unified perspective with some new variants](https://arxiv.org/pdf/2010.13299.pdf) by Daniel Sanz-Alonso, et al., 2020.
+* [Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels](https://papers.nips.cc/paper/2020/file/b9cfe8b6042cf759dc4c0cccb27a6737-Paper.pdf) by Massimiliano Patacchiola, Amos Storkey, et al., 2020.
 
 ### Topic Extraction
 * [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) by David M. Blei, Andrew Y. Ng, Michael I. Jordan, 2003.
