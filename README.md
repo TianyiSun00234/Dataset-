@@ -76,7 +76,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Few-Shot Learning (Meta-learning, or attempt to solve Data Scarcity & low-resources languages)
 * [Meta-Transfer Learning for Few-Shot Learning](https://arxiv.org/abs/1812.02391) by Tat-Seng Chua, Bernt Schiele, et al., 2018. 
-* [CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/fall2019/index.html#topics) by Chelsea Finn, et al., Fall 2019.
+* [CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/) by Chelsea Finn, et al., Fall 2020.
 * [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604) by Wenpeng Yin, 2020.
 * [Few-shot Text Classification with Distributional Signatures](https://arxiv.org/abs/1908.06039) by Shiyu Chang, Regina Barzilay, et al., 2020.
 * [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf) by Quanming Yao, James Kwok, Lionel M. Ni, et al., 2020.
