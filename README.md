@@ -90,9 +90,9 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Diversity 
 * [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/abs/1802.06070) by Benjamin Eysenbach, Abhishek Gupta, Julian Ibarz, Sergey Levine, 2018.
-  * * [Home](https://sites.google.com/view/diayn) 
-  * * Blog: [DIAYN: Diversity Is All You Need](https://medium.com/towards-artificial-intelligence/diayn-diversity-is-all-you-need-23aaa6532e84) by Sherwin Chen. 
-  * * May be useful: [KL Divergence for Machine Learning](https://dibyaghosh.com/blog/probability/kldivergence.html)
+  * [Home](https://sites.google.com/view/diayn) 
+  * Blog: [DIAYN: Diversity Is All You Need](https://medium.com/towards-artificial-intelligence/diayn-diversity-is-all-you-need-23aaa6532e84) by Sherwin Chen. 
+  * May be useful: [KL Divergence for Machine Learning](https://dibyaghosh.com/blog/probability/kldivergence.html), [MINE: Mutual Information Neural Estimation](https://medium.com/towards-artificial-intelligence/mine-mutual-information-neural-estimation-26f6853febda)
 
 ## NLG 
 ### Generate novel, creative text in a controllable way
