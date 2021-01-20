@@ -7,6 +7,8 @@ The sharing principle of these references here is for research. If any authors d
 * Web: [paperswithcode](https://paperswithcode.com/) by Facebook AI Research.
 * Web: [AllenNLP](https://guide.allennlp.org/) by Allen Institute for AI.
 * Web: [Stanford Online](https://online.stanford.edu/)
+* Blog: [GAN Papers to Read in 2020](https://towardsdatascience.com/gan-papers-to-read-in-2020-2c708af5c0a4) [Ten More AI Papers to Read in 2020](https://towardsdatascience.com/ten-more-ai-papers-to-read-in-2020-8c6fb4650a9b) [AI Papers to Read in 2020](https://towardsdatascience.com/ai-papers-to-read-in-2020-ac0e4e91d915)
+[Quick Semantic Search using Siamese-BERT Networks](https://towardsdatascience.com/quick-semantic-search-using-siamese-bert-networks-1052e7b4df1)
 
 ## NLP & Its Applications
 * Wiki: [NLU](https://en.wikipedia.org/wiki/Natural-language_understanding)
@@ -82,6 +84,16 @@ The sharing principle of these references here is for research. If any authors d
 * [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf) by Quanming Yao, James Kwok, Lionel M. Ni, et al., 2020.
 * **[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)** by OpenAI, 2020.
 * [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641) by Maruan Al-Shedivat,Pieter Abbeel, et al., 2018.
+
+## Transformer
+* []()
+
+## Diversity 
+* [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/abs/1802.06070) by Benjamin Eysenbach, Abhishek Gupta, Julian Ibarz, Sergey Levine, 2018.
+  * * [Home](https://sites.google.com/view/diayn) 
+  * * Blog: [DIAYN: Diversity Is All You Need](https://medium.com/towards-artificial-intelligence/diayn-diversity-is-all-you-need-23aaa6532e84) by Sherwin Chen. 
+  * * May be useful: [KL Divergence for Machine Learning](https://dibyaghosh.com/blog/probability/kldivergence.html)
+
 ## NLG 
 ### Generate novel, creative text in a controllable way
 * [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437) by Robin Jia, He He, Percy Liang, et al., 2018.
