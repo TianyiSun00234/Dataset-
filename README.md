@@ -86,7 +86,12 @@ The sharing principle of these references here is for research. If any authors d
 * [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641) by Maruan Al-Shedivat,Pieter Abbeel, et al., 2018.
 
 ## Transformer
-* []()
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+* [Single Headed Attention RNN: Stop Thinking With Your Head](https://arxiv.org/pdf/1911.11423.pdf)
+* * [Summary: Single Headed Attention RNN - Stop Thinking With Your Head](https://medium.com/@flexudyeducation/summary-single-headed-attention-rnn-stop-thinking-with-your-head-2ba8f1e7438a)
+* [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
+Applications](https://arxiv.org/pdf/1704.04861.pdf)
+* [Self-Attention GANs](https://arxiv.org/pdf/1805.08318.pdf)
 
 ## Diversity 
 * [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/abs/1802.06070) by Benjamin Eysenbach, Abhishek Gupta, Julian Ibarz, Sergey Levine, 2018.
