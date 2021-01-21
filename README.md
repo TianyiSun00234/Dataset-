@@ -85,7 +85,7 @@ The sharing principle of these references here is for research. If any authors d
 * **[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)** by OpenAI, 2020.
 * [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641) by Maruan Al-Shedivat,Pieter Abbeel, et al., 2018.
 
-## **Transformer**
+### **Transformer**
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 * [Single Headed Attention RNN: Stop Thinking With Your Head](https://arxiv.org/pdf/1911.11423.pdf)
 * * [Summary: Single Headed Attention RNN - Stop Thinking With Your Head](https://medium.com/@flexudyeducation/summary-single-headed-attention-rnn-stop-thinking-with-your-head-2ba8f1e7438a)
@@ -93,7 +93,7 @@ The sharing principle of these references here is for research. If any authors d
 Applications](https://arxiv.org/pdf/1704.04861.pdf)
 * [Self-Attention GANs](https://arxiv.org/pdf/1805.08318.pdf)
 
-## **Diversity** 
+### **Diversity** 
 * [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/abs/1802.06070) by Benjamin Eysenbach, Abhishek Gupta, Julian Ibarz, Sergey Levine, 2018.
   * [Home](https://sites.google.com/view/diayn) 
   * Blog: [DIAYN: Diversity Is All You Need](https://medium.com/towards-artificial-intelligence/diayn-diversity-is-all-you-need-23aaa6532e84) by Sherwin Chen. 
