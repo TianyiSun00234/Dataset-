@@ -27,7 +27,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Approximation of NP-hard problems](https://www.cs.princeton.edu/~arora/publist.html#Course%20Notes%20etc.) by Sanjeev Arora's research.
 
 ## NLU
-### Societal issues (Debiase & Trustworthy...)
+### Debiase & Trustworthy
 * [Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf) by Antonio Torralba, Stefanie Jegelka, et al., 2020.
 * [Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual](https://arxiv.org/abs/1908.10763) by He He, Sheng Zha, et al., 2019.
 * [Fairness, Ethics, Accountability, and Transparency (Societal Bias) in NLP](http://web.cs.ucla.edu/~kwchang/publications_area/#FEAT) by Kai-Wei Chang's research group.
@@ -51,13 +51,13 @@ The sharing principle of these references here is for research. If any authors d
 ### Transductive Inference 
 * [Transductive Inference](https://cs.nyu.edu/~mohri/transduction.html) by Mehryar Mohri, et al., 2007-2009. (3 papers) 
 
-### Bayesian deep learning
+### Bayesian Deep Learning
 * [Natural-Parameter Networks: A Class of Probabilistic Neural Networks](http://wanghao.in/paper/NIPS16_NPN.pdf) by Hao Wang, Xingjian Shi, Dit-Yan Yeung, 2016.
 * [An Updating Survey for Bayesian Deep Learning (BDL)](https://github.com/js05212/BayesianDeepLearning-Survey) by Hao Wang, 2020.
 * A solution of Bayesian inverse problems: [Iterative ensemble Kalman methods: a unified perspective with some new variants](https://arxiv.org/pdf/2010.13299.pdf) by Daniel Sanz-Alonso, et al., 2020.
 * [Bayesian Meta-Learning for the Few-Shot Setting via Deep Kernels](https://papers.nips.cc/paper/2020/file/b9cfe8b6042cf759dc4c0cccb27a6737-Paper.pdf) by Massimiliano Patacchiola, Amos Storkey, et al., 2020.
 
-### Topic Extraction
+### Topic Model
 * [Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) by David M. Blei, Andrew Y. Ng, Michael I. Jordan, 2003.
 
 ### Information Extraction 
@@ -72,11 +72,11 @@ The sharing principle of these references here is for research. If any authors d
 * [Continuously Indexed Domain Adaptation (CIDA)](https://github.com/hehaodele/CIDA#continuously-indexed-domain-adaptation-cida) by Hao Wang, 2020.
 * [Domain adaptation and sample bias correction](https://cs.nyu.edu/~mohri/domain.html) by Mehryar Mohri, et al., 2007-2016. (n papers) 
 
-### Cross-Domain 
+### Transfer Learning
 * [A General Cross-Domain Recommendation Framework via Bayesian Neural Network](https://www.computer.org/csdl/proceedings-article/icdm/2018/08594934/17D45WHONno) by Qing He, et al., 2018.
 * [MTNet: A Neural Approach for Cross-Domain Recommendation with Unstructured Text](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_5.pdf) by Yu Zhang, and Qiang Yang, et al., 2018.
 
-### Few-Shot Learning (Meta-learning, or attempt to solve Data Scarcity & low-resources languages)
+### Few-Shot Learning & Meta-Learning
 * [Meta-Transfer Learning for Few-Shot Learning](https://arxiv.org/abs/1812.02391) by Tat-Seng Chua, Bernt Schiele, et al., 2018. 
 * [CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/) by Chelsea Finn, et al., Fall 2020.
 * [Meta-learning for Few-shot NLP](https://arxiv.org/abs/2007.09604) by Wenpeng Yin, 2020.
@@ -107,12 +107,12 @@ Applications](https://arxiv.org/pdf/1704.04861.pdf)
 
 
 ## NLG 
-### Generate novel, creative text in a controllable way
+### Generating creative text in a controllable way
 * [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437) by Robin Jia, He He, Percy Liang, et al., 2018.
 * [Pun Generation with Surprise](https://arxiv.org/abs/1904.06828) by He He, Nanyun Peng, Percy Liang, 2019.
-### Factually correctness
+### Factually Dorrectness
 * [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754) by He He, Mona Diab, et al., 2020.
 
-## Evaluation datasets
+## Evaluation Datasets
 * [Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims](https://www.aclweb.org/anthology/N19-1053/) by Wenpeng Yin, Chris Callison-Burch, Dan Roth, et al., 2019.
 * [AllenNLP Datasets](https://allenai.org/data?tag=AllenNLP) by Allen Institute for AI.
