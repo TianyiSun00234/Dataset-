@@ -99,6 +99,13 @@ Applications](https://arxiv.org/pdf/1704.04861.pdf)
   * Blog: [DIAYN: Diversity Is All You Need](https://medium.com/towards-artificial-intelligence/diayn-diversity-is-all-you-need-23aaa6532e84) by Sherwin Chen. 
   * May be useful: [KL Divergence for Machine Learning](https://dibyaghosh.com/blog/probability/kldivergence.html), [MINE: Mutual Information Neural Estimation](https://medium.com/towards-artificial-intelligence/mine-mutual-information-neural-estimation-26f6853febda)
 
+## Task-Agnostic 
+* [Task-Agnostic Reinforcement Learning](https://tarl2019.github.io/#organizers) Workshop at ICLR, 06 May 2019.
+* [Task-Agnostic Dynamics Priors for Deep Reinforcement Learning](https://arxiv.org/abs/1905.04819) by Yilun Du, Karthik Narasimhan, May 2019.
+* [Task Agnostic Meta-Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jamal_Task_Agnostic_Meta-Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf) by Muhammad Abdullah Jamal, Guo-Jun Qi, Mubarak Shah, May 2018.
+* [Attentive Task-Agnostic Meta-Learning for Few-Shot Text Classification](http://metalearning.ml/2018/papers/metalearn2018_paper23.pdf) by Xiang Jiang, Mohammad Havaei, Gabriel Chartrand, Hassan Chouaib, Thomas Vincent, Andrew Jesson, Nicolas Chapados, Sep 2018.
+
+
 ## NLG 
 ### Generate novel, creative text in a controllable way
 * [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437) by Robin Jia, He He, Percy Liang, et al., 2018.
