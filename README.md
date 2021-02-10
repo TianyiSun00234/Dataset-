@@ -14,10 +14,10 @@ The sharing principle of these references here is for research. If any authors d
 * AAAI-21 Workshop: [W6: Commonsense Knowledge Graphs (CSKGs)](https://virtual.2021.aaai.org/workshop_WS-6.html) [[homepage](https://usc-isi-i2.github.io/AAAI21workshop/#panel)]
 * AAAI-21 Workshop: [W24: Scientific Document Understanding](https://sites.google.com/view/sdu-aaai21/home?authuser=0)
 * AAAI-21 Workshop: [DSTC9 Workshop](https://sites.google.com/dstc.community/dstc9/aaai-21-workshop?authuser=0)
-* [Interactive Evaluation of Dialog](https://drive.google.com/file/d/0Bx4CHsnRHDmJc3ZTdm5zejkyZFZ2MWlVTW1xNEt2Wlk0YmxB/view) [Web](http://dialog.speech.cs.cmu.edu:8003/)
+* [Interactive Evaluation of Dialog](https://drive.google.com/file/d/0Bx4CHsnRHDmJc3ZTdm5zejkyZFZ2MWlVTW1xNEt2Wlk0YmxB/view) | [Web](http://dialog.speech.cs.cmu.edu:8003/)
 * AAAI-21 Workshop: Paper call: [AI and COVID-19](https://jair.org/index.php/jair/SpecialTrack-AIandCovid19)
-* AAAI-21 Workshop: [MetaLearn Challenges](https://sites.google.com/chalearn.org/metalearning?pli=1#h.37qup76uzaxh) ❗️❗️❗️😔 missed.
-* AAAI-21 Workshop: [Learning Network Architecture During Training](https://virtual.2021.aaai.org/workshop_WS-17.html) [homepage](https://www.cs.cmu.edu/~sef/AAAI-2021-Workshop.htm)
+* AAAI-21 Workshop: [MetaLearn Challenges](https://sites.google.com/chalearn.org/metalearning?pli=1#h.37qup76uzaxh) ❗️😔 missed.
+* AAAI-21 Workshop: [Learning Network Architecture During Training](https://virtual.2021.aaai.org/workshop_WS-17.html) | [homepage](https://www.cs.cmu.edu/~sef/AAAI-2021-Workshop.htm)
 * AAAI-21 Workshop: [First International Workshop on Meta-Learning for Computer Vision (MeL4CV)](http://iab-rubric.org/mel4cv/program2021.html)
 
 ## NLP & Its Applications
@@ -125,16 +125,6 @@ Applications](https://arxiv.org/pdf/1704.04861.pdf)
 ### Factually Dorrectness
 * [FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754) by He He, Mona Diab, et al., 2020.
 
-## Datasets
-* [Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims](https://www.aclweb.org/anthology/N19-1053/) by Wenpeng Yin, Chris Callison-Burch, Dan Roth, et al., 2019.
-* [AllenNLP Datasets](https://allenai.org/data?tag=AllenNLP) by Allen Institute for AI.
-* [Artificial Dummies for Urban Dataset Augmentation](https://www.aaai.org/AAAI21Papers/AAAI-9933.VobeckyA.pdf) by Antonin Vobecky, David Hurych, Michal Uricar, Patrick Pérez, Josef Sivic, 2020. 
-* [The Gap on GAP: Tackling the Problem of Differing Data Distributions in Bias-Measuring Datasets](https://www.aaai.org/AAAI21Papers/AAAI-9727.KocijanV.pdf) by Vid Kocijan, Oana-Maria Camburu, Thomas Lukasiewicz, 2020. 
-* [HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection](https://www.aaai.org/AAAI21Papers/AISI-9414.MathewB.pdf) by Binny Mathew, Punyajoy Saha, Seid Muhie Yimam, Chris Biemann, Pawan Goyal, Animesh Mukherjee, 2020.
-*  []()
-* [On Learning Deep Models with Imbalanced Data Distribution](https://www.aaai.org/AAAI21Papers/DC-260.MajumdarP.pdf) by Puspita Majumdar, Richa Singh, Mayank Vatsa, 2020. 
-* [A Serverless Approach to Federated Learning Infrastructure Oriented for IoT/Edge Data Sources](https://www.aaai.org/AAAI21Papers/SA-166.AhujaA.pdf) by Anshul Ahuja, Geetesh Gupta, Suman Kundu, 2020.
-
 ## Cognitive AI
 * [Brain Decoding Using fNIRS](https://www.aaai.org/AAAI21Papers/AAAI-9839.CaoL.pdf) by Lu Cao, Dandan Huang, Yue Zhang, Xiaowei Jiang, Yanan Chen, 2020. 
 * [A Simple Framework for Cognitive Planning](https://www.aaai.org/AAAI21Papers/AAAI-5084.DavilaJ.pdf) by Jorge Fernandez, Dominique Longin, Emiliano Lorini, Frédéric Maris, 2020.
@@ -144,8 +134,31 @@ Applications](https://arxiv.org/pdf/1704.04861.pdf)
 * [Regularizing Attention Networks for Anomaly Detection in Visual Question Answering](https://www.aaai.org/AAAI21Papers/AAAI-3951.LeeD.pdf) by Doyup Lee, Yeongjae Cheon, Wook-Shin Han, 2020.
 
 ## Dialog
-* [Relevance Similarity Scorer and Entity Guided Reranking for Knowledge Grounded Dialog System](https://drive.google.com/file/d/1B9cCbnzPjVsNpyHPlRbJFQ3DDIcQkw4E/view)
-* [Multi-Domain Task Completion Dialog Challenge II at DSTC9](https://drive.google.com/file/d/1SoRAnBcay5RGcPGlhWrCpv4_8PM3smO_/view)
+* [Relevance Similarity Scorer and Entity Guided Reranking for Knowledge Grounded Dialog System](https://drive.google.com/file/d/1B9cCbnzPjVsNpyHPlRbJFQ3DDIcQkw4E/view) by Hyunkyung Bae, et aal., 2020. 
+* [Multi-Domain Task Completion Dialog Challenge II at DSTC9](https://drive.google.com/file/d/1SoRAnBcay5RGcPGlhWrCpv4_8PM3smO_/view) by Jinchao Li, et al., 2020.
 
 ## Commonsense 
 * [Toward an Atlas of Cultural Commonsense for Machine Reasoning](https://usc-isi-i2.github.io/AAAI21workshop/papers/Acharya_CSKGsAAAI-21.pdf) by Anurag Acharya, Kartik Talamadupula, Mark A Finlayson, 2020.
+
+## Datasets
+* [Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims](https://www.aclweb.org/anthology/N19-1053/) by Wenpeng Yin, Chris Callison-Burch, Dan Roth, et al., 2019.
+* [AllenNLP Datasets](https://allenai.org/data?tag=AllenNLP) by Allen Institute for AI.
+* [Artificial Dummies for Urban Dataset Augmentation](https://www.aaai.org/AAAI21Papers/AAAI-9933.VobeckyA.pdf) by Antonin Vobecky, David Hurych, Michal Uricar, Patrick Pérez, Josef Sivic, 2020. 
+* [The Gap on GAP: Tackling the Problem of Differing Data Distributions in Bias-Measuring Datasets](https://www.aaai.org/AAAI21Papers/AAAI-9727.KocijanV.pdf) by Vid Kocijan, Oana-Maria Camburu, Thomas Lukasiewicz, 2020. 
+* [HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection](https://www.aaai.org/AAAI21Papers/AISI-9414.MathewB.pdf) by Binny Mathew, Punyajoy Saha, Seid Muhie Yimam, Chris Biemann, Pawan Goyal, Animesh Mukherjee, 2020.
+* [HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection](https://www.aaai.org/AAAI21Papers/AISI-9414.MathewB.pdf) by Binny Mathew, Punyajoy Saha, Seid Muhie Yimam, Chris Biemann, Pawan Goyal, Animesh Mukherjee, 2020.
+* [Abusive Language Detection in Heterogeneous Contexts: Dataset Collection and the Role of Supervised Attention](https://www.aaai.org/AAAI21Papers/AISI-843.GongH.pdf) by Hongyu Gong, Alberto Valido, Katherine M Ingram, Giulia Fanti, Suma Bhat, Dorothy L Espelage, 2020.
+* [Towards Robust Visual information Extraction in Real World: New Dataset and Novel Solution](https://www.aaai.org/AAAI21Papers/AAAI-6079.WangJ.pdf) by Jiapeng Wang, Chongyu Liu, Lianwen Jin, Guozhi Tang, Jiaxin Zhang, Shuaitao Zhang, Qianying Wang, Yaqiang Wu, Mingxiang Cai, 2020.
+* [DDRel: A New Dataset for Interpersonal Relation Classification in Dyadic Dialogues](https://www.aaai.org/AAAI21Papers/AAAI-8834.JiaQ.pdf) by Qi Jia, Hongru Huang, Kenny Zhu, 2020.
+* [Data Domain Change and Feature Selection to Predict Cardiac Pathology with a 2D Clinical Dataset and Convolutional Neural Networks](https://www.aaai.org/AAAI21Papers/SA-210.SerraNetoM.pdf) by Mário Tasso Serra, Marco A. Florenzano Mollinetti, Inês Dutra, 2020.
+* [Re-TACRED: Addressing Shortcomings of the TACRED Dataset](https://www.aaai.org/AAAI21Papers/AAAI-3163.StoicaG.pdf) by George I Stoica, Emmanouil Antonios Platanios, Barnabas Poczos, 2020.
+* [Temporal Segmentation of Fine-Gained Semantic Action: A Motion-Centered Figure Skating Dataset](https://www.aaai.org/AAAI21Papers/AAAI-3224.LiuS.pdf) by Shenglan Liu, Aibin Zhang, Yunheng Li, Jian Zhou, Li Xu, Zhuben Dong, Renhao Zhang, 2020.
+* [Scalable Affinity Propagation for Massive Datasets](https://www.aaai.org/AAAI21Papers/AAAI-1136.ShiokawaH.pdf) by Hiroaki Shiokawa, 2020.
+* [The Undergraduate Games Corpus: A Dataset for Machine Perception of Interactive Media](https://www.aaai.org/AAAI21Papers/AAAI-2461.AndersonB.pdf) by Barrett R Anderson, Adam M Smith, 2020.
+* [MELINDA: A Multimodal Dataset for Biomedical Experiment Method Classification](https://www.aaai.org/AAAI21Papers/AAAI-10194.WuTL.pdf) by Te-Lin Wu, Shikhar Singh, Sayan Paul, Gully A Burns, Nanyun Peng, 2020.
+* [Writing Polishment with Simile: Task, Dataset and a Neural Approach](https://www.aaai.org/AAAI21Papers/AAAI-4046.ZhangJ.pdf) by Jiayi Zhang, Zhi Cui, Xiaoqiang Xia, Yalong Guo, Yanran Li, Chen Wei, Jianwei Cui, 2020.
+
+
+* [On Learning Deep Models with Imbalanced Data Distribution](https://www.aaai.org/AAAI21Papers/DC-260.MajumdarP.pdf) by Puspita Majumdar, Richa Singh, Mayank Vatsa, 2020. 
+* [A Serverless Approach to Federated Learning Infrastructure Oriented for IoT/Edge Data Sources](https://www.aaai.org/AAAI21Papers/SA-166.AhujaA.pdf) by Anshul Ahuja, Geetesh Gupta, Suman Kundu, 2020.
+
