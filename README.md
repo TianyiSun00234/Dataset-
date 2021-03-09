@@ -16,7 +16,7 @@ The sharing principle of these references here is for research. If any authors d
 * AAAI-21 Workshop: [DSTC9 Workshop](https://sites.google.com/dstc.community/dstc9/aaai-21-workshop?authuser=0)
 * [Interactive Evaluation of Dialog](https://drive.google.com/file/d/0Bx4CHsnRHDmJc3ZTdm5zejkyZFZ2MWlVTW1xNEt2Wlk0YmxB/view) | [Web](http://dialog.speech.cs.cmu.edu:8003/)
 * AAAI-21 Workshop: Paper call: [AI and COVID-19](https://jair.org/index.php/jair/SpecialTrack-AIandCovid19)
-* AAAI-21 Workshop: [MetaLearn Challenges](https://sites.google.com/chalearn.org/metalearning?pli=1#h.37qup76uzaxh) ❗️missed.
+* AAAI-21 Workshop: [MetaLearn Challenges](https://sites.google.com/chalearn.org/metalearning?pli=1#h.37qup76uzaxh)
 * AAAI-21 Workshop: [Learning Network Architecture During Training](https://virtual.2021.aaai.org/workshop_WS-17.html) | [homepage](https://www.cs.cmu.edu/~sef/AAAI-2021-Workshop.htm)
 * AAAI-21 Workshop: [First International Workshop on Meta-Learning for Computer Vision (MeL4CV)](http://iab-rubric.org/mel4cv/program2021.html)
 
